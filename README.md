@@ -47,3 +47,6 @@ Geplant ist der Umbau auf eine dedizierte **Wickler-Applikation von Siemens** zu
 * **Plattform:** Siemens SINAMICS **S120** (Modulares Mehrachssystem) oder **S210** (Hochdynamisches Servo-Einzelachssystem).
 * **Inbetriebnahme:** Konfiguration und Tuning mittels Siemens Starter, Startdrive (TIA Portal) oder Scout.
 
+## 📸 Fotos
+
+
