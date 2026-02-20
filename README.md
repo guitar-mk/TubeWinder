@@ -24,8 +24,8 @@ Schlauchmaschine 1
 ## 🧮 Berechnungen & Ableitungen
 
 * **Polzahl:** Die Synchrondrehzahl von 500 U/min bei 50 Hz ergibt physikalisch einen **12-poligen Motor** (6 Polpaare).
-* **Mechanische Nennleistung:** Die Leistung lässt sich aus Drehmoment ($M$) und Drehzahl ($n$) über die folgende Formel berechnen: 
-  $P = M \cdot 2 \cdot \pi \cdot \frac{n}{60}$
+* **Mechanische Nennleistung:** Die Leistung lässt sich aus Drehmoment ($M$) und Drehzahl ($n$) über die folgende Formel berechnen: <br>
+$P = M \cdot 2 \cdot \pi \cdot \frac{n}{60}$ <br>
 * **Ergebnis:** Bei 17 Nm und 500 U/min liefert dieser Motor ca. **0,89 kW** (890 W) mechanische Nennleistung.
 
 ---
