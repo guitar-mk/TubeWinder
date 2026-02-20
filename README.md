@@ -49,4 +49,8 @@ Geplant ist der Umbau auf eine dedizierte **Wickler-Applikation von Siemens** zu
 
 ## 📸 Fotos
 
+<p align="center">
+  <img src="/gui.png" width="350" title="ImGui">
+</p>
+
 
